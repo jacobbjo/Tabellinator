@@ -1,0 +1,52 @@
+Prestanda, format:
+acc (0.4 - 0.8 m/s2) retardation (1.2 - 2.0 m/s2) maxhast (30 - 45 m/s)
+ex:
+0.4 1.2 35
+==============================================================
+0.4 1.5 35
+==============================================================
+Tider, format:
+Första avgång från startstation Sista tillåtna avgång från slutstaion
+(00:00-23:59) 
+ex:
+05:07 00:00
+==============================================================
+05:07 00:00
+==============================================================
+Tågantal, format:
+Tågantal veckodagar(min 1) Tågantal helger(min 1)
+ex:
+3 1
+==============================================================
+3 1
+==============================================================
+Väntetider, format:
+Väntetid vid varje hållplats (upp till) Väntetid vid vändhållplatser
+(0-59 min)
+ex:
+1 10
+==============================================================
+1 10
+==============================================================
+Tabellformat:
+stationsnamn (max 15 tkn)  avstånd från startstationen (km)
+Obs: Stationerna måste ligga i ordning (km) och utan tom rad efter
+ex:
+Arby 0
+Bedinge 3.57
+==============================================================
+Arby 0
+Bedinge 3.57
+Cebro 6.38
+Bebro 7.38
+Degum 8.67
+Ekö 12.80
+Floda 18.24
+Guldö 24.59
+Silverö 25.72
+Håsta 29.42
+Iby 30.73
+Jituna 34.06
+Båvik 36.95
+Kåvik 39.95
+==============================================================
